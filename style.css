@@ -23,6 +23,7 @@ h1 + h2 { margin-top: -55px; }
 
 .font {
   font-family: 'Bree Serif', serif;
+  font-size: 19px;
 }
 
 .menu {
